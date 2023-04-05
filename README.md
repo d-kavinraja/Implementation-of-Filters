@@ -153,29 +153,24 @@ plt.show()
 
 ## OUTPUT:
 ### 1. Smoothing Filters
-
-
-i) Using Averaging Filter
+## i) Using Averaging Filter
 ![output](./pho1.png)
 
-ii) Using Weighted Averaging Filter
+## ii) Using Weighted Averaging Filter
 ![output](./pho2.png)
 
 
-iii) Using Gaussian Filter
+## iii) Using Gaussian Filter
 ![output](./pho3.png)
 
-
-iv) Using Median Filter
+## iv) Using Median Filter
 ![output](./pho4.png)
 
 ### 2. Sharpening Filters
-
-
-i) Using Laplacian Kernal
+## i) Using Laplacian Kernal
 ![output](./pho5.png)
 
-ii) Using Laplacian Operator
+## ii) Using Laplacian Operator
 ![output](./pho6.png)
 
 
